@@ -1,3 +1,5 @@
+Key Swing Functionalities Used.
+
 1) JPanel: JPanel is the Swing equivalent of the AWT class Panel, with an equivalent default layout.
 2) The FlowLayout. JPanel is a direct descendant of JComponent.
 3) JFrame: JFrame is Swing’s version of Frame and is a direct descendant of the AWT Frame class. The component added to the Frame is referred to as its Content.
